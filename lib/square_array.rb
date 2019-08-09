@@ -7,6 +7,6 @@ def square_array(array)
     counter += 1
   end
   
-  return
+  return new_array
   
 end
